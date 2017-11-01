@@ -1,0 +1,10 @@
+{
+"notice": {
+    "title": "Notice Title"
+    "issues": {
+      "issue-1" {
+        "title": "We don’t have the table listed in the floor plan doc. Where should I put the new merch?"
+      }
+    }
+  }
+}
